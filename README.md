@@ -6,13 +6,6 @@ I'm Rubansi — a freelance **data analyst** who helps small teams and founders 
 
 📍 Nairobi, Kenya · 🟢 Available for freelance & consulting
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rubansi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubansi/)
-[![GitHub](https://img.shields.io/badge/GitHub-rubansi-181717?logo=github&logoColor=white)](https://github.com/rubansi)
-[![X](https://img.shields.io/badge/X-Rubansi254-000000?logo=x&logoColor=white)](https://x.com/Rubansi254)
-[![Email](https://img.shields.io/badge/Email-hello@rubansi.ke-EA4335?logo=gmail&logoColor=white)](mailto:hello@rubansi.ke)
-
-![Profile views](https://komarev.com/ghpvc/?username=rubansi&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
 
 ## 👋 About
@@ -45,19 +38,6 @@ I work best with founders and small teams who need answers, not a 40-page deck. 
 - `Git & GitHub` — versioning · repos — **Advanced**
 - `Databricks` — Spark · Delta Lake — **Working**
 
-### How the stack fits together
-
-| Stage | Tool | What it does |
-|:--|:--|:--|
-| Collect | SQL | Extract & join raw source tables |
-| Process | Databricks | Spark & Delta Lake at scale |
-| Transform | Power Query | Clean, reshape & automate refresh |
-| Analyze | Python | Stats, forecasting & heavy lifting |
-| Model | Power Pivot | Data models & DAX measures |
-| Build | Excel | Modeling, automation & ad-hoc analysis |
-| Deliver | Power BI | Ship it as a living, interactive dashboard |
-| Version | Git & GitHub | Version & collaborate across it all |
-
 ---
 
 ## 💼 Services
@@ -87,31 +67,6 @@ I work best with founders and small teams who need answers, not a 40-page deck. 
 
 ---
 
-## 📊 Featured Work
-
-### Case 01 — Subscription revenue, finally trusted
-`SQL` `Python` `Power Pivot` `Power BI` `Forecasting`
-
-**Problem:** A SaaS founder had three "revenue" numbers from three tools — none agreed. Board reporting was a guess.
-**What I did:** Built one source of truth in SQL, reconciled billing vs. ledger in Python, and modeled a trailing forecast in Power Pivot the whole team could refresh in one click.
-**Result:** **+38%** net revenue clarity · **1-click** board-ready refresh
-
-### Case 02 — Cutting a 3-day report to 30 minutes
-`Power Query` `Excel` `Automation`
-
-**Problem:** An ops team rebuilt the same weekly inventory report by hand — three days, every week.
-**What I did:** Rebuilt the pipeline in Power Query with automated refresh and validation, so the report regenerates itself and flags anomalies before anyone opens it.
-**Result:** **94%** time saved weekly · **312 hrs** recovered per year
-
-### Case 03 — Finding the 20% of customers driving 80% of churn
-`Python` `SQL` `Segmentation` `Power BI`
-
-**Problem:** A subscription brand was losing customers but couldn't say which kind — or why.
-**What I did:** Segmented the base with Python clustering, surfaced the at-risk cohort, and shipped a live Power BI dashboard.
-**Result:** **−31%** churn in 2 quarters · **4 segments** now tracked live
-
----
-
 ## 🔄 How I Work
 
 1. **Frame** — We pin down the real question, and how you'll know when it's answered.
@@ -129,20 +84,6 @@ I work best with founders and small teams who need answers, not a 40-page deck. 
 - **AWS Solutions Architect Associate** — AWS · EC2, VPC, Redshift, Athena, RDS, S3, Lambda — *2025*
 - **AWS Cloud Computing** — AWS · Cloud Computing Essentials — *2025*
 - **Certified Public Accountant (CPA-K)** — KASNEB · Financial Analytics & Reporting — *2013–2016*
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Rubansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubansi&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubansi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
-
-![GitHub streak](https://streak-stats.demolab.com?user=rubansi&hide_border=true&theme=tokyonight)
-
-</div>
 
 ---
 
