@@ -1,4 +1,4 @@
-# Rubansi Vincent — Data Analyst
+# Rubansi Vincent | Data Analyst
 
 > Turning messy data into decisions you can act on.
 
